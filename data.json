@@ -1,14 +1,70 @@
-{
-  "name": "Example Data",
-  "version": "1.0.0",
-  "items": [
-    {
-      "id": 1,
-      "description": "Item A"
-    },
-    {
-      "id": 2,
-      "description": "Item B"
-    }
-  ]
-}
+  {
+    id: 1,
+    category: "Ambiente",
+    subCategory: "Recolección de Residuos",
+    name: "Evolución anual de la cantidad de camiones",
+    link: "48b2ce16-05a3-4f8f-bff2-6da31dedfaa8"
+  },
+  {
+    id: 2,
+    category: "Territorio y Población",
+    subCategory: "Población",
+    name: "Densidad",
+    link: "f0c1024f-ff4b-4ab6-9aa6-82af61506765"
+  },
+  {
+    id: 3,
+    category: "Actividad Económica",
+    subCategory: "Salud",
+    name: "Densidad",
+    link: "ce210bff-690d-4a1b-a93a-febf925a3c2a"
+  },
+  {
+    id: 4,
+    category: "Seguridad Ciudadana",
+    subCategory: "Ambiente",
+    name: "Censo Localidades",
+    link: "105fea54-b4e4-4991-b719-df99cfa73b90"
+  },
+  {
+    id: 5,
+    category: "Servicios",
+    subCategory: "Ambiente",
+    name: "Censo Localidades",
+    link: "105fea54-b4e4-4991-b719-df99cfa73b90"
+  },
+  {
+    id: 6,
+    category: "Ambiente",
+    subCategory: "Ambiente",
+    name: "Censo Localidades",
+    link: "105fea54-b4e4-4991-b719-df99cfa73b90"
+  },
+  {
+    id: 7,
+    category: "Actividad Económica",
+    subCategory: "Agrícola",
+    name: "Rendimiento por campaña",
+    link: "60b3806f-279f-4446-9649-aef71fb23bc1",
+    ficha: [
+      {
+        indicador: "EVOLUCIÓN DE TASA BRUTA DE NATALIDAD",
+        dimension: "Territorio y Población",
+        area: "Población"
+      }
+    ]
+  },
+  {
+    id: 8,
+    category: "Territorio y Población",
+    subCategory: "Población",
+    name: "Infracciones",
+    link: "9abb0dc3-70dc-4cd2-bab8-dae97f477551"
+  },
+  {
+    id: 9,
+    category: "Actividad Económica",
+    subCategory: "Agrícola",
+    name: "Superficie sembrada por campaña",
+    link: "fb993d47-e386-4ae9-91a1-61424863584e"
+  },
