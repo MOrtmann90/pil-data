@@ -1,4 +1,4 @@
-  {
+[{
     id: 1,
     category: "Ambiente",
     subCategory: "Recolección de Residuos",
@@ -67,4 +67,5 @@
     subCategory: "Agrícola",
     name: "Superficie sembrada por campaña",
     link: "fb993d47-e386-4ae9-91a1-61424863584e"
-  },
+  }
+]
