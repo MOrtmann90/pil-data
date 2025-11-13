@@ -1,0 +1,14 @@
+{
+  "name": "Example Data",
+  "version": "1.0.0",
+  "items": [
+    {
+      "id": 1,
+      "description": "Item A"
+    },
+    {
+      "id": 2,
+      "description": "Item B"
+    }
+  ]
+}
